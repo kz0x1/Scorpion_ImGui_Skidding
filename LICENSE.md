@@ -1,18 +1,18 @@
-# Roblox License for Dummies Non-Commercial (RLD-NC)
+# Roblox License for Dummies - Non-Commercial (RLD-NC)
 
 **Version 1.0**
 
-### You Can:
-- Use this script in Roblox for free, but only for personal or educational purposes.
-- Change the script to fit your needs, as long as you’re not using it to make money.
-- Share this script with others, as long as you follow the rules below.
+### Permissions:
+- You may **use** this script in Roblox at no cost, but only for personal or educational purposes.
+- You may **modify** this script to suit your needs, provided it is not used for commercial gain.
+- You may **share** this script with others, as long as the following conditions are met.
 
-### You Can’t:
-- Sell this script, or any versions you make from it.
-- Remove the original author’s name or any copyright notes from the script.
+### Restrictions:
+- You may not **sell** this script or any modified versions of it.
+- You may not **remove** the original author's name or any copyright notices from the script.
 
-### Important Legal Stuff:
-This script is provided **"as is"** without any guarantees. The author isn’t responsible if something goes wrong when you use it.
+### Disclaimer of Liability:
+This script is provided **"as is"** without any warranties or guarantees. The author is not liable for any damages or issues arising from the use of this script.
 
-### Give Credit:
-If you share this script or any modified versions, please give credit to the original author by including their name.
+### Attribution:
+If you share this script or any modifications, please credit the original author by including their name.
